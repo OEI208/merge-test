@@ -1,1 +1,1 @@
-my name is huangsz.this is a test fot merging.
+my name is huangsz.this is a test for merging.
