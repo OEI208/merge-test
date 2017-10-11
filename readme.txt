@@ -1,2 +1,1 @@
-<<<<<<< HEAD
 my name is huangsz.this is a test for merging.
