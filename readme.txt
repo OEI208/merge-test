@@ -1,2 +1,2 @@
-my name is huangsz.this is a test for merging.
 <<<<<<< HEAD
+my name is huangsz.this is a test for merging.
